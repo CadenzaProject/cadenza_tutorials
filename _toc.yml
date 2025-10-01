@@ -26,6 +26,11 @@ parts:
       - file: interact_challenges/interact_metadata
       - file: interact_challenges/running_recipes
 
+    - file: clip1/clip1
+      sections:
+      - file: clip1/scoring
+      - file: clip1/hearing_loss_simulation
+
     - file: cad2/cad2
       sections:
       - file: cad2/cad2-task1
