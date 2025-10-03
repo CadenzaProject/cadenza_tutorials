@@ -32,7 +32,7 @@ html:
   home_page_in_navbar: false
   use_issues_button: true
   use_repository_button: true
-  announcement: "⚠️ This is a beta version. Please report any issues or request new tutorial by opening an issue on the GitHub repository. ⚠️"
+  announcement: "CLIP dataset scoring tutorial online"
 
 launch_buttons:
     notebook_interface: "classic"
