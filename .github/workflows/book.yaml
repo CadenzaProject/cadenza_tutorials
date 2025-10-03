@@ -53,8 +53,12 @@ jobs:
       uses: actions/upload-pages-artifact@v3
       with:
         path: "_build/html"
+        name: my-book-artifact   # <-- give it a unique name
 
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
+      with:
+        artifact_name: my-book-artifact   # <-- reference the same artifact name
+
