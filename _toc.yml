@@ -29,10 +29,6 @@ parts:
     - file: clip1/clip1
       sections:
       - file: clip1/scoring/scoring
-      - file: clip1/scoring/text_normalisation
-      - file: clip1/scoring/alternative_words
-      - file: clip1/scoring/spellings
-      - file: clip1/hearing_loss_simulation
 
     - file: cad2/cad2
       sections:
