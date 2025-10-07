@@ -1,6 +1,6 @@
-# ICASSP 2026 Lyric Intelligibility Challenge
+# ICASSP 2026 Grand Challenge
 
-A novel dataset for lyric intelligibility was created for the **ICASSP 2026 Lyric Intelligibility Challenge**.
+A novel dataset for lyric intelligibility was created for the [**ICASSP 2026 Lyric Intelligibility Challenge**](https://cadenzachallenge.org/docs/clip1/intro).
 This dataset consists of **11,074 music signals** of unfamous tracks sourced from the Free Music Archive (FMA) dataset.
 
 The process of constructing the dataset involved the following steps (see diagram below):
